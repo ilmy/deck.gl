@@ -10,7 +10,6 @@ import {
   //  ContourLayer
 } from 'deck.gl';
 
-
 // Demonstrate immutable support
 import * as dataSamples from '../data-samples';
 

@@ -2,7 +2,6 @@
 // EXPERIMENTAL LAYERS PACKAGE
 //
 
-
 // SHADER MODULES
 export {default as outline} from './shaderlib/outline/outline';
 

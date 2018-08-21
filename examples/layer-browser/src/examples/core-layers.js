@@ -3,7 +3,7 @@ import {
   ScatterplotLayer,
   ArcLayer,
   LineLayer,
-  PointCloudLayer,
+  // PointCloudLayer,
   ScreenGridLayer,
   IconLayer,
   GridCellLayer,
